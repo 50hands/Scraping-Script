@@ -13,7 +13,7 @@ from time import sleep
 import pandas as pd
 
 driver = webdriver.Chrome(executable_path=ChromeDriverManager().install())
-driver.get("https://www.bigbasket.com/cl/gourmet-world-food/?nc=nb")
+driver.get("insert-url-here")
 sleep(10)
 main=[]
 for i in range(1,20):
