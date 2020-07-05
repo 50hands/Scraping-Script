@@ -21,6 +21,6 @@ Use the following pip commands to install the required modules
 * Python
 * Selenium
 
-## Contributors
+## Author
 
 **Mahisha S** - *Initial work* - [mahisha-s](https://github.com/mahisha-s)
