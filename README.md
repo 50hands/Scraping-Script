@@ -20,7 +20,3 @@ Use the following pip commands to install the required modules
 
 * Python
 * Selenium
-
-## Author
-
-**Mahisha S** - *Initial work* - [mahisha-s](https://github.com/mahisha-s)
